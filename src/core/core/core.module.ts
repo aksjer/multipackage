@@ -7,5 +7,5 @@ import { HeaderComponent } from './components/header/header.component';
     CommonModule
   ],
   declarations: [HeaderComponent]
-})
+})//
 export class CoreModule { }
