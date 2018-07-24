@@ -9,7 +9,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com/aksjer/gescom.git"
+    "url": "https://github.com/aksjer/gescom.git"
   },
   "description": ""
 }
